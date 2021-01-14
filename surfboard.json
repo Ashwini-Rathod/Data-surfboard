@@ -14,27 +14,27 @@
         "companies" : [
             {
                 "companyName" : "Raw Engineering",
-                "subtext" : "An Innovative Digital Solutions company",
+                "siteLink" : "https://www.raweng.com",
                 "description" : "Raw Engineering provides Digital Transformation Strategy and Custom Development Services. It has been trusted for more than a decade by the world’s most innovative startups, sports franchises and leading Fortune 500 companies for Web, Mobile and DevOps solutions and services."
             },
             {
                 "companyName" : "Contentstack",
-                "subtext" : "An API-first, Headless CMS company",
+                "siteLink" : "https://www.contentstack.com",
                 "description" : "Contentstack is the leading API-first content hub at the intersection of CMS and DXP powering modernized digital experiences. It recently received a Series-A funding of $31.5 million to deliver personalized, omnichannel digital experiences."
             },
             {
                 "companyName" : "Built.io",
-                "subtext" : "Integration Platform-as-a-Service",
+                "siteLink" : "https://www.softwareag.com/en_corporate/company/news.html",
                 "description" : "Acquired in 2018 by German software powerhouse, Software AG, Built.io Flow is an intelligent Integration Platform-as-a-Service (iPaaS) to power business workflows."
             },
             {
                 "companyName" : "Education Basics",
-                "subtext" : "All-in-one education management system",
+                "siteLink" : "https://www.edba.io",
                 "description" : "Education Basics (edbā) offers an all-in-one, next-gen education management system so institutes can focus more on delivering value to students, and less on daily administrative tasks."
             },
             {
                 "companyName" : "iRobokid",
-                "subtext" : "A STEM education organization for kids",
+                "siteLink" : "https://www.irobokid.com",
                 "description" : "iRobokid is an educational organisation specialising in STEM Education through Robotics, Coding, 3D printing, Electrics and Electronics."
             }
 
