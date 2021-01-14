@@ -46,12 +46,6 @@
                 "title" : "Multiple Environments",
                 "content" : "Create unlimited content management system, such as development, testing, staging, and production, to map to your content production process."
             }
-        ],
-        "enterpriseGrade" : [
-            {
-                "title" : "Omnichannel Delivery",
-                "image" : ""
-            }
         ]
     }
 ]
