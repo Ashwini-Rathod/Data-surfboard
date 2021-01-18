@@ -32,19 +32,23 @@
         "features" : [
             {
                 "title" : "Workflows",
-                "content" : "Set up and define workflows and approvals with our modern CMS that map to your business processes for content management and publishing."
+                "content" : "Set up and define workflows and approvals with our modern CMS that map to your business processes for content management and publishing.",
+                "image" : "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt5186cea1da777239/5f2a7f4e0269427af138823b/workflow-mobile.jpg"
             },
             {
                 "title" : "Experience Extensions",
-                "content" : "Easily integrate with your preferred marketing technologies (Brightcove, Marketo, Salesforce, Optimizely, etc.) without being bound to built-in preset tools."
+                "content" : "Easily integrate with your preferred marketing technologies (Brightcove, Marketo, Salesforce, Optimizely, etc.) without being bound to built-in preset tools.",
+                "image" : "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt4efe4d586a1f0bd7/5f2a7f8148d3b57cb9748232/integrations-mobile.jpg"
             },
             {
                 "title" : "Modular Blocks",
-                "content" : "Allow content editors to build and edit dynamic pages within our headless CMS without needing a developer's help."
+                "content" : "Allow content editors to build and edit dynamic pages within our headless CMS without needing a developer's help.",
+                "image" : "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blte6c31c9c62d701c4/5f2a7fa01967337e7590baff/modular-mobile.jpg"
             },
             {
                 "title" : "Multiple Environments",
-                "content" : "Create unlimited content management system, such as development, testing, staging, and production, to map to your content production process."
+                "content" : "Create unlimited content management system, such as development, testing, staging, and production, to map to your content production process.",
+                "image" : "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/bltc410bfc8b6a7d5c1/5f2a7fc328ef1e01dfb502f5/environments-mobile.jpg"
             }
         ]
     }
